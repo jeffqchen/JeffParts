@@ -22,6 +22,8 @@ Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Con
 
 ```
 220uF / 6.3V / Imperial 1206 Size - [[Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)]
+
+MC74HC86ADTR2G Quad XOR Gate - [[Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/MC74HC86ADTR2G%20Quad%20XOR%20Gate/info.md)
 ```
 
 

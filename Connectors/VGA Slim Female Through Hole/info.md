@@ -1,4 +1,4 @@
-#VGA Slim Female Through Hole
+# VGA Slim Female, Through Hole
 
 Links:
 

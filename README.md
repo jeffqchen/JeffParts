@@ -3,7 +3,11 @@
 
 I found that it's not a great idea to put individual link in each and every building guides that I have. Instead, it makes more sense if there's a centralized repo so if something is changed, it can be updated from one single point. So here it is.
 
-## Connectors
+------------
+
+## Quick Copy Markdown Code
+
+### Connectors
 ```
 VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
 
@@ -14,21 +18,21 @@ Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Con
 2.54mm-Pitched Right Angle Pin Header - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/2.54mm%20Right-Angle%20Pin%20Header/info.md)
 ```
 
-## Components
+### Components
 
 ```
 220uF / 6.3V / Imperial 1206 Size - [[Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/220uF%20SMD%20Cap/info.md)]
 ```
 
 
-## Switches
+### Switches
 
 ```
 EG2208(A) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Switches/EG2208%20Toggle%20Switch/info.md)
 
 ```
 
-## Parts
+### Parts
 
 ```
 M2/M3 screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)

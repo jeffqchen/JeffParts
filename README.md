@@ -13,6 +13,10 @@ VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/C
 
 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 
+8 pin Mini DIN Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/8Pin/Cable/info.md)
+
+8 pin Mini DIN Male Plug, PCB Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/8Pin/Through%20Hole/info.md)
+
 Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)
 
 2.54mm-Pitched Right Angle Pin Header - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/2.54mm%20Right-Angle%20Pin%20Header/info.md)

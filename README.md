@@ -9,7 +9,9 @@ I found that it's not a great idea to put individual link in each and every buil
 
 ### Connectors
 ```
-VGA Port Slim Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
+VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/VGA%20Slim%20Female%20Through%20Hole/info.md)
+
+VGA Port Slim, Male - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/VGA%20Slim%20Male%20Through%20Hole/info.md)
 
 Vertical 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 

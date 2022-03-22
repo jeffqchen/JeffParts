@@ -21,6 +21,8 @@ Horizontal 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/
 
 9 pin Mini DIN Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/9Pin/Cable/info.md)
 
+DB9 Port - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/DB9/Male%20PCB/info.md) (Choose the DR9, Male option)
+
 SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
 
 Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)

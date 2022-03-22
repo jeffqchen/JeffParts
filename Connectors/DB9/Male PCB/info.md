@@ -1,4 +1,4 @@
-# DB9 Male, PCB Type
+# DB9 (DR9) Male, PCB Type
 
 <img src="./DR9.jpg" width="300px" />
 

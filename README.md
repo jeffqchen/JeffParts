@@ -60,4 +60,6 @@ M2/M3 screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/mai
 
 ```
 Arduino Pro Micro 5V/16MHz Version - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Arduino/Pro%20Micro/5V%2016MHz/info.md)
+
+Arduino Nano - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Arduino/Nano/info.md)
 ```

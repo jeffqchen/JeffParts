@@ -33,6 +33,10 @@ SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob
 
 HDMI Female Socket, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HDMI/Female/PCB/info.md)
 
+Terminal Pins, Male, Machined - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Terminal%20Pins/Machined%20Male/info.md)
+
+Terminal Pins, Female, Machined - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Terminal%20Pins/Machined%20Female/info.md)
+
 2.54mm-Pitched Pin Header, Right Angle  - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Right-Angle/info.md)
 
 2.54mm-Pitched Pin Header, Straight - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Straight/info.md)

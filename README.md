@@ -56,6 +56,8 @@ EG2208(A) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Switches/EG2
 
 ```
 M2/M3 screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
+
+VGA Thumb Screw - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/VGA%20Thumb%20Screw/info.md)
 ```
 
 ### Boards

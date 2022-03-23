@@ -25,6 +25,8 @@ VGA Port Slim, Male - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Co
 
 9 pin Mini DIN Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/9Pin/Cable/info.md)
 
+PlayStation Controller Port - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/PlayStation%20Controller%20Port/info.md)
+
 DB9 Port - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/DB9/Male%20PCB/info.md)
 
 Nintendo AV Plug - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Nintendo%20AV%20Plug/info.md)

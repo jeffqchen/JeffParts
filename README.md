@@ -1,5 +1,4 @@
-# JeffParts
- Jeff's Parts Library
+# Jeff's Parts Library
 
 I found that it's not a great idea to put individual links to parts in each and every building guides that I have. Over time, these link will slowly become invalid and the guide would not work anymore.
 

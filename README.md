@@ -37,6 +37,8 @@ BNC Header, Female, Panel Mount 75/50 Ohm- [Link](https://github.com/jeffqchen/J
 
 HDMI Female Socket, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HDMI/Female/PCB/info.md)
 
+HDMI Ports, Modular - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HDMI/Modular/info.md)
+
 Terminal Pins, Male, Machined - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Terminal%20Pins/Machined%20Male/info.md)
 
 Terminal Pins, Female, Machined - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Terminal%20Pins/Machined%20Female/info.md)

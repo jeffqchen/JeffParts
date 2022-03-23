@@ -1,11 +1,17 @@
 # JeffParts
  Jeff's Parts Library
 
-I found that it's not a great idea to put individual link in each and every building guides that I have. Instead, it makes more sense if there's a centralized repo so if something is changed, it can be updated from one single point. So here it is.
+I found that it's not a great idea to put individual links to parts in each and every building guides that I have. Over time, these link will slowly become invalid and the guide would not work anymore.
+
+Instead, it makes more sense if there's a centralized repository so if something is ever changed, it can be updated from one single point. So here it is.
 
 ------------
 
 ## Quick Copy Markdown Code
+
+For quickly copy & paste into guides.
+
+------------
 
 ### Connectors
 ```
@@ -13,9 +19,9 @@ VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/
 
 VGA Port Slim, Male - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/VGA%20Slim%20Male%20Through%20Hole/info.md)
 
-3.5mm Headphone Jack, Vertical - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
+3.5mm Headphone Jack, Vertical - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Vertical%205-Pin%20PCB/info.md)
 
-3.5mm Headphone Jack, Horizontal - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Horizontal%203.5mm%203-Pin%20Audio%20Jack/info.md)
+3.5mm Headphone Jack, Horizontal - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Horizontal%203-Pin%20PCB/info.md)
 
 3.5mm Audio Jack, panel mount - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Panel%20Mount/info.md)
 
@@ -50,6 +56,8 @@ Terminal Pins, Female, Machined - [Link](https://github.com/jeffqchen/JeffParts/
 2.54mm-Pitched Pin Header, Straight - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Straight/info.md)
 ```
 
+------------
+
 ### Components
 
 ```
@@ -58,6 +66,7 @@ Terminal Pins, Female, Machined - [Link](https://github.com/jeffqchen/JeffParts/
 MC74HC86ADTR2G Quad XOR Gate - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/MC74HC86ADTR2G%20Quad%20XOR%20Gate/info.md)
 ```
 
+------------
 
 ### Switches
 
@@ -65,6 +74,8 @@ MC74HC86ADTR2G Quad XOR Gate - [Link](https://github.com/jeffqchen/JeffParts/blo
 EG2208(A) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Switches/EG2208%20Toggle%20Switch/info.md)
 
 ```
+
+------------
 
 ### Parts
 
@@ -75,6 +86,8 @@ VGA Thumb Screw - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/
 
 3.5mm Audio Jumper Cable - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/3.5mm%20Audio%20Jumper%20Cable/info.md)
 ```
+
+------------
 
 ### Boards
 

@@ -13,9 +13,11 @@ VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/tree/main/
 
 VGA Port Slim, Male - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/VGA%20Slim%20Male%20Through%20Hole/info.md)
 
-Vertical 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
+3.5mm Headphone Jack, Vertical - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Connectors/Vertical%203.5mm%205-Pin%20Audio%20Jack/info.md)
 
-Horizontal 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Horizontal%203.5mm%203-Pin%20Audio%20Jack/info.md)
+3.5mm Headphone Jack, Horizontal - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Horizontal%203.5mm%203-Pin%20Audio%20Jack/info.md)
+
+3.5mm Audio Jack, panel mount - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Panel%20Mount/info.md)
 
 8 pin Mini DIN Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/8Pin/Cable/info.md)
 

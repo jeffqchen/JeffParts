@@ -1,5 +1,7 @@
 # Jeff's Parts Library
 
+<img src="./parts.jpg" width="800px" />
+
 I found that it's not a great idea to put individual links to parts in each and every building guides that I have. Over time, these link will slowly become invalid and the guide would not work anymore.
 
 Instead, it makes more sense if there's a centralized repository so if something is ever changed, it can be updated from one single point. So here it is.

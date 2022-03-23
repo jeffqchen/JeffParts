@@ -25,11 +25,13 @@ Horizontal 3.5mm Headphone Jack - [Link](https://github.com/jeffqchen/JeffParts/
 
 DB9 Port - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/DB9/Male%20PCB/info.md)
 
-Nintendo Video Plug - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Nintendo%20AV%20Plug/info.md)
+Nintendo AV Plug - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Nintendo%20AV%20Plug/info.md)
 
 Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)
 
 SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
+
+BNC Header, Female, Panel Mount 75/50 Ohm- [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/BNC%20Header/Panel%20Mount/Female/info.md)
 
 HDMI Female Socket, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HDMI/Female/PCB/info.md)
 

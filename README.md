@@ -93,6 +93,8 @@ VGA Thumb Screw - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/
 ### Boards
 
 ```
+Arduino Pro Micro 3.3V/8MHz Version - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Arduino/Pro%20Micro/3.3V%208MHz/info.md)
+
 Arduino Pro Micro 5V/16MHz Version - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Arduino/Pro%20Micro/5V%2016MHz/info.md)
 
 Arduino Nano - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Arduino/Nano/info.md)

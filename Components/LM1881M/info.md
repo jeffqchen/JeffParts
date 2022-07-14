@@ -6,3 +6,5 @@ LM1881MX/NOPB, 8-SOIC
 
 - https://www.digikey.com/en/products/detail/texas-instruments/LM1881MX-NOPB/334931
 - https://www.digikey.ca/en/products/detail/texas-instruments/LM1881MX-NOPB/334931
+
+*Also available on Mouser and eBay*

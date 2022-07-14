@@ -87,7 +87,7 @@ SN74LVC1G3157DBVR SPDT Switch / SOT-23-6 - [Link](https://github.com/jeffqchen/J
 ```
 EG2208(A) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Switches/EG2208%20Toggle%20Switch/info.md)
 
-78H01T 4PST Switch- [Link](https://github.com/jeffqchen/JeffParts/blob/main/Switches/78H01T%204PST%20Switch/info.md)
+78H01T 4PST Switch - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Switches/78H01T%204PST%20Switch/info.md)
 
 ```
 

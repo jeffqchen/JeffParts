@@ -40,6 +40,8 @@ Nintendo AV Plug - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Conne
 
 Dreamcast AV Plugs - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Dreamcast%20AV%20Plug/info.md)
 
+PlayStation AV Multi Plug, Male - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/PlayStation%20AV%20Multi%20Plug/info.md)
+
 SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
 
 BNC Header, Female, Panel Mount 75/50 Ohm- [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/BNC%20Header/Panel%20Mount/Female/info.md)
@@ -55,6 +57,8 @@ Terminal Pins, Female, Machined - [Link](https://github.com/jeffqchen/JeffParts/
 2.54mm-Pitched Pin Header, Right Angle  - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Right-Angle/info.md)
 
 2.54mm-Pitched Pin Header, Straight - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Straight/info.md)
+
+RCA Jack, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/RCA%20Jack/info.md)
 ```
 
 ------------
@@ -67,6 +71,13 @@ Terminal Pins, Female, Machined - [Link](https://github.com/jeffqchen/JeffParts/
 100uF / 6.3V / Imperial 1206 Size - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/100uF%20SMD%20Cap/info.md)
 
 MC74HC86ADTR2G Quad XOR Gate - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/MC74HC86ADTR2G%20Quad%20XOR%20Gate/info.md)
+
+LM1881M Sync Separator / 8-SOIC - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/LM1881M%20Sync%20Separator/info.md)
+
+ISL59885ISZ HD Sync Separator / 8-SOIC - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/ISL59885ISZ%20HD%20Sync%20Separator/info.md)
+
+SN74LVC1G3157DBVR SPDT Switch / SOT-23-6 - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/SN74LVC1G3157DBVR%20SPDT%20Switch/info.md)
+
 ```
 
 ------------
@@ -75,6 +86,8 @@ MC74HC86ADTR2G Quad XOR Gate - [Link](https://github.com/jeffqchen/JeffParts/blo
 
 ```
 EG2208(A) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Switches/EG2208%20Toggle%20Switch/info.md)
+
+78H01T 4PST Switch- [Link](https://github.com/jeffqchen/JeffParts/blob/main/Switches/78H01T%204PST%20Switch/info.md)
 
 ```
 

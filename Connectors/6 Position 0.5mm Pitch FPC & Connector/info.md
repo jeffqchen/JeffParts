@@ -10,7 +10,7 @@ Links:
 -------
 # 6 Position FFC, FPC Cable 0.020" (0.50mm) 1.970" (50.04mm)
 
-<img src="./687606050002.jpg" width="300px" />
+<img src="./687606050002.jpg" width="300px" /> 
 
 - https://www.digikey.com/en/products/detail/würth-elektronik/687606050002/2811273
 - https://www.digikey.ca/en/products/detail/würth-elektronik/687606050002/2811273

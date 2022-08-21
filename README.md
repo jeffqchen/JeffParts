@@ -106,7 +106,7 @@ VGA Thumb Screw - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/
 
 3.5mm Audio Jumper Cable - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/3.5mm%20Audio%20Jumper%20Cable/info.md)
 
-Flexible Filament LED Strips, 130mm, DC 3V, Cold White 6500K - [Linke](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Flexible%20Filament%20LED/info.md)
+Flexible Filament LED Strips, 130mm, DC 3V, Cold White 6500K - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Flexible%20Filament%20LED/info.md)
 ```
 
 ------------

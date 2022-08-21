@@ -80,6 +80,8 @@ ISL59885ISZ HD Sync Separator / 8-SOIC - [Link](https://github.com/jeffqchen/Jef
 
 SN74LVC1G3157DBVR SPDT Switch / SOT-23-6 - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/SN74LVC1G3157DBVR%20SPDT%20Switch/info.md)
 
+BSR14 NPN Amplifier / SOT23-3 [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/BSR14%20NPN%20Amplifier/info.md)
+
 ```
 
 ------------

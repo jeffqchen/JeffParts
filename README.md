@@ -82,6 +82,7 @@ SN74LVC1G3157DBVR SPDT Switch / SOT-23-6 - [Link](https://github.com/jeffqchen/J
 
 BSR14 NPN Amplifier / SOT23-3 [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/BSR14%20NPN%20Amplifier/info.md)
 
+SN74AHCT1G08DBVR SMD AND Gate, SOT-23-5 - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/SN74AHCT1G08DBVR%20Single%20AND%20Gate/info.md)
 ```
 
 ------------

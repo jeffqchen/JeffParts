@@ -93,6 +93,7 @@ EG2208(A) - [Link](https://github.com/jeffqchen/JeffParts/tree/main/Switches/EG2
 
 78H01T 4PST Switch - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Switches/78H01T%204PST%20Switch/info.md)
 
+SS12SDP2 Slide switch, SPDT, 2.54mm Pitched, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Switches/SS12SDP2%20SPDT%20Switch/info.md)
 ```
 
 ------------

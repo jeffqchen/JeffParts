@@ -131,7 +131,7 @@ Arduino Nano - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Ard
 
 ------------
 
-### Boards
+### Power
 
 ```
 WSU050-4000, 5V/20W, OD5.5mm/ID2.1mm, Triad Power Adapter - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Power/WSU050-4000/info.md)

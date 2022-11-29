@@ -128,3 +128,12 @@ Arduino Pro Micro 5V/16MHz Version - [Link](https://github.com/jeffqchen/JeffPar
 
 Arduino Nano - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Arduino/Nano/info.md)
 ```
+
+------------
+
+### Boards
+
+```
+WSU050-4000, 5V/20W, OD5.5mm/ID2.1mm, Triad Power Adapter - [Link]()
+WSU050-1500 5V/7.5W OD5.5mm/ID2.1mm, Triad Power Adapter - [Link]()
+```

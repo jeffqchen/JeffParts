@@ -63,6 +63,8 @@ RCA Jack, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Conne
 6 Position 0.5mm Pitch FPC & Connector - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/6%20Position%200.5mm%20Pitch%20FPC%20%26%20Connector/info.md)
 
 PJ-002A Barrel Jack, OD 5.50mm / ID 2.10mm - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Barrel%20Jack/PJ-002A/info.md)
+
+1705951 RJ45 Ethernet Jack, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/RJ45/Female/1705951/info.md)
 ```
 
 ------------

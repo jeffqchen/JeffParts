@@ -89,6 +89,8 @@ BSR14 NPN Amplifier / SOT23-3 [Link](https://github.com/jeffqchen/JeffParts/blob
 SN74AHCT1G08DBVR SMD AND Gate, SOT-23-5 - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/SN74AHCT1G08DBVR%20Single%20AND%20Gate/info.md)
 
 J104A2C5VDC.40S General Purpose Relay, DPDT, 5V/3A - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/J104A2C5VDC.40S%20Relay/info.md)
+
+1N4148W Diode, SMD - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Components/1N4148W/info.md)
 ```
 
 ------------

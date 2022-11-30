@@ -10,3 +10,7 @@ Substitute:
 MTJ-885X1
 - https://www.digikey.com/en/products/detail/adam-tech/MTJ-885X1/9832277
 - https://www.digikey.ca/en/products/detail/adam-tech/MTJ-885X1/9832277
+
+54601-908WPLF
+- https://www.digikey.com/en/products/detail/amphenol-cs-fci/54601-908WPLF/1488544
+- https://www.digikey.ca/en/products/detail/amphenol-cs-fci/54601-908WPLF/1488544

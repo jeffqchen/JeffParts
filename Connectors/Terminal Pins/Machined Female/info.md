@@ -8,3 +8,7 @@ Link:
 
 - https://www.digikey.com/en/products/detail/norcomp-inc/170-202-170L003/1164238
 - https://www.digikey.ca/en/products/detail/norcomp-inc/170-202-170L003/1164238
+
+1599600
+- https://www.digikey.com/en/products/detail/phoenix-contact/1599600/3606927
+- https://www.digikey.ca/en/products/detail/phoenix-contact/1599600/3606927

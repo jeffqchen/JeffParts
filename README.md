@@ -64,6 +64,10 @@ Terminal Pins, Female, Machined - [Link](https://github.com/jeffqchen/JeffParts/
 
 2.54mm-Pitched Pin Header, Straight - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/2.54mm%20Pitch/Male%20Straight/info.md)
 
+1.27mm-Pitched Female Pin Header, Double Row, SMD - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/1.27mm%20Pitch/Female%20SMD/info.md)
+
+1.27mm-Pitched Male Pin Header, Double Row, Straight, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Pin%20Header/1.27mm%20Pitch/Male%20Straight/info.md)
+
 RCA Jack, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/RCA%20Jack/info.md)
 
 6 Position 0.5mm Pitch FPC & Connector - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/6%20Position%200.5mm%20Pitch%20FPC%20%26%20Connector/info.md)

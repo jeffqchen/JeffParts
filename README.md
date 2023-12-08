@@ -122,6 +122,8 @@ SS12SDP2 Slide switch, SPDT, 2.54mm Pitched, Through Hole - [Link](https://githu
 ```
 M2/M3 screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
 
+M4 screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M4%20Hex%20Screw%20%26%20Nut/info.md)
+
 VGA Thumb Screw - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/VGA%20Thumb%20Screw/info.md)
 
 3.5mm Audio Jumper Cable - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/3.5mm%20Audio%20Jumper%20Cable/info.md)

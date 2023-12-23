@@ -4,5 +4,8 @@ Link:
 
 <img src="./phoenix_aliexpress.jpg" width="300px" />
 
+10-Lot
+- https://www.aliexpress.com/item/1005003834553267.html
+
 50-Lot
 - https://www.aliexpress.com/item/33038085286.html

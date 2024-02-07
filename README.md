@@ -158,4 +158,5 @@ WSU050-1500, 5V/7.5W OD5.5mm/ID2.1mm, Triad Power Adapter - [Link](https://githu
 
 ```
 Flat flex cable. 50-pin, 0.5mm pitch, 203mm(8-inch) long, type B - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Cables/FFC/50P_0.5mmPitch_8inch_B/info.md)
+JST PH cable - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Cables/JST/PH/info.md)
 ```

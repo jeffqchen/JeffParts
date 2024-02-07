@@ -151,3 +151,11 @@ Arduino Nano - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Board/Ard
 WSU050-4000, 5V/20W, OD5.5mm/ID2.1mm, Triad Power Adapter - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Power/WSU050-4000/info.md)
 WSU050-1500, 5V/7.5W OD5.5mm/ID2.1mm, Triad Power Adapter - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Power/WSU050-1500/info.md)
 ```
+
+------------
+
+### Cable
+
+```
+Flat flex cable. 50-pin, 0.5mm pitch, 203mm(8-inch) long, type B - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/Cables/FFC/50P_0.5mmPitch_8inch_B/info.md)
+```

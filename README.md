@@ -42,6 +42,8 @@ VGA Port Slim, Male - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Co
 
 PlayStation Controller Port - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/PlayStation%20Controller%20Port/info.md)
 
+PlayStation Controller Plug, Male Pins, Right Angle - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/PlayStation%20Controller%20Port/Male%20Plug/info.md)
+
 DB9 Port - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/DB9/Male%20PCB/info.md)
 
 Nintendo AV Plug - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Nintendo%20AV%20Plug/info.md)

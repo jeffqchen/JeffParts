@@ -30,6 +30,8 @@ VGA Port Slim, Male - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Co
 
 8 pin Mini DIN Male Plug, PCB Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/8Pin/Through%20Hole/info.md)
 
+8 pin Mini DIN Female Recepticle, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/Female/8%20Pin/info.md)
+
 9 pin Mini DIN Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/Mini%20DIN/9Pin/Cable/info.md)
 
 9 pin Mini DIN Male Plug, Through-Hole Type - [Link]

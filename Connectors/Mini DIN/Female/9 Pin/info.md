@@ -1,6 +1,7 @@
 # Mini DIN 9 Pin, Female, Right Angle, Through Hole
 
 <img width="640" src="https://github.com/user-attachments/assets/101caf0f-29d8-48aa-9388-a91febe57563" />
+<img width="640" src="https://github.com/user-attachments/assets/45330fb8-4464-40cf-abc0-6f5a3009e2d6" />
 
 DigiKey
 - https://www.digikey.com/en/products/detail/kycon-inc/KMDGX-9S-BS-1/10127398 (USA)

@@ -20,6 +20,8 @@ VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/
 
 VGA Port Slim, Male - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Male%20PCB/info.md)
 
+VGA Port Full Depth, Male, Right Angle, Through Hole - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Full/Male/info.md)
+
 3.5mm Headphone Jack, Vertical - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Vertical%205-Pin%20PCB/info.md)
 
 3.5mm Headphone Jack, Horizontal - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/3.5mm%20Audio%20Jack/Horizontal%203-Pin%20PCB/info.md)
